@@ -32,13 +32,11 @@ In this project, the following tasks were performed:
 
 ## Visualizations
 
-The following plots were generated in this project:
+### Line Plot
+![Line Plot](https://github.com/AtharvaChivate/PageView-Time-Series-Visualiser/blob/main/line_plot.png)
 
-1. **Line Plot**:
-   ![Line Plot](https://github.com/AtharvaChivate/PageView-Time-Series-Visualiser/blob/main/line_plot.png)
+### Bar Plot
+![Bar Plot](https://github.com/AtharvaChivate/PageView-Time-Series-Visualiser/blob/main/bar_plot.png)
 
-2. **Bar Plot**:
-   ![Bar Plot](https://github.com/AtharvaChivate/PageView-Time-Series-Visualiser/blob/main/bar_plot.png)
-
-3. **Box Plot**:
-   ![Box Plot](https://github.com/AtharvaChivate/PageView-Time-Series-Visualiser/blob/main/box_plot.png)
+### Box Plot
+![Box Plot](https://github.com/AtharvaChivate/PageView-Time-Series-Visualiser/blob/main/box_plot.png)
